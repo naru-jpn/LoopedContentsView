@@ -44,7 +44,7 @@ func loopedContentsView(loopedContentsView: LoopedContentsView, cellAtIndex inde
 
 ### Register Cell Class
 
-You can register cell class as usual.
+You can register cell class.
 
 ```
 loopedContentsView.registerClass(class: {Name of Cell Class}.self, forCellReuseIdentifier: "{Identifier}")
