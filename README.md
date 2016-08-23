@@ -12,7 +12,7 @@ LoopedContentsView display and handle looped contents. __LoopedContentsView can 
 
 ## Usage
 
-### Delegate and DataSource
+### Delegate / DataSource
 
 LoopedContentsView needs delegate and datasource like UITableView/UICollectionView.
 
