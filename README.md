@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
-<img src="https://github.com/naru-jpn/LoopedContentsView/blob/master/sample.gif?raw=true" width="600" />
+<img src="https://github.com/naru-jpn/LoopedContentsView/blob/master/LoopedContentsView.gif?raw=true" width="600" />
 
 ## Overview
 
