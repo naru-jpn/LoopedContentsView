@@ -4,11 +4,11 @@
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
-<img src="https://github.com/naru-jpn/LoopedContentsView/blob/master/LoopedContentsView.gif?raw=true" width="600" />
-
 ## Overview
 
-LoopedContentsView display and handle looped contents. __LoopedContentsView can bear very fast scroll!__
+<img src="https://github.com/naru-jpn/LoopedContentsView/blob/master/LoopedContentsView.gif?raw=true" width="500" />
+
+LoopedContentsView display and handle infinite looped contents. __LoopedContentsView can bear very fast scroll!__
 
 ## Usage
 
